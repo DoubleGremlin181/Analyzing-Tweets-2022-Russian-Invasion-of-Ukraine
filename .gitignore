@@ -1,0 +1,6 @@
+UkraineTweets/*
+cardiffnlp/*
+.ipynb_checkpoints/*
+
+*.pdf
+*.csv
